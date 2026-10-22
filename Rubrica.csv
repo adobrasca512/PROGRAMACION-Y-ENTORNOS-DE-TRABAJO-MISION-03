@@ -1,0 +1,7 @@
+﻿Criterio,Puntos máximos,Excelente,Insuficiente
+Diseño e integridad,2,Esquema correcto y justificado,Faltan claves o relaciones
+SELECT y filtros,1.5,Consultas correctas y explicadas,Consultas incompletas
+JOIN,2,INNER y LEFT JOIN correctos,JOIN erróneos o cartesianos
+Agregaciones,1.5,COUNT SUM AVG GROUP BY HAVING correctos,Agregaciones incorrectas
+Dataset IA y validación,2,"30 filas, cero duplicados y nulos tratados",Dataset incompleto o inconsistente
+Git y documentación,1,Repositorio ordenado y defensa clara,Entrega sin evidencias
